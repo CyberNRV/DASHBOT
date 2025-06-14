@@ -10,7 +10,8 @@ we are looking for 10 beta testers we currently have 3. your job is to test our 
 # Welcome to Dashbot 💀
 
 Dashbot is a panel designed to manage PCs compromised by a FUD malware unique to each user. This undetectable malware updates itself automatically to remain elusive, even to the authorities.
-
+![login](dashbot_login.png)
+![botlist](dashbot_botlist.png)
 ## Malware Description
 This malware is coded to be unalterable, with 6 private security systems making it impenetrable. A dynamic code system allows remote modifications only for the purpose of improvement.
 
