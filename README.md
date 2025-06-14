@@ -2,8 +2,8 @@ CONTACT ME ON HF OR ON TELEGRAM : CYBERNRV for get a Betatester for free
 
 beta tester found : 3/10
 
-Beta : 15/02/2025
-Release : 30/02/2025
+Beta : 15/08/2025
+Release : 30/11/2025
 
 we are looking for 10 beta testers we currently have 3. your job is to test our solution in real time for 15 days and give us feedback with ideas for improvements. as a reward we offer beta testers a lifetime license
 
